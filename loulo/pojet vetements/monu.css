@@ -1,0 +1,29 @@
+.k3{
+    color: black;
+    background-color: aquamarine ;
+    border-color: #6eed40;
+    border: 8px solid  #6eed40;
+}
+#monu .k3{
+    overflow: hidden;
+margin-bottom:2px ;
+width: 400px;
+height: 43px;
+}
+#monu a{
+display: block;
+
+}
+#monu .k3{
+    transition: height ease-in-out 500ms;
+    -o-transition: height ease-in-out 500ms;
+    -webkit-transition: height ease-in-out 500ms;
+    -moz-transition: height ease-in-out 500ms;
+
+} 
+#monu div:hover{
+    height: 300px;
+
+    
+    }
+

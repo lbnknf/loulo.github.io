@@ -1,0 +1,104 @@
+div#fa1{
+color: rgb(230, 34, 102);
+
+}
+div#ki{
+background-color: rgb(126, 32, 215);
+}
+div#kid{
+text-decoration: underline;
+
+}
+#kds{
+    text-decoration:wavy;
+    color: rgb(228, 231, 42);
+}
+
+div>img{
+    width: 350px;
+    height: 200px;
+    border: 15px solid rgb(19, 186, 198);
+    border-radius: 21px;
+    width: 350px;
+
+}
+div>img:hover{
+    opacity: 0.5;
+}
+
+div#fm2{
+    color: bisque;
+    font-size: 25px ;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform:uppercase;
+    text-decoration:wavy;
+    text-shadow: 4px 5px 6px rgb(7, 7, 220);
+    background-color: rgb(224, 74, 149);
+    border: 6px solid blue;
+    border-radius: 17px;
+position: absolute;
+left: 330px;
+top: 105px;
+bottom: 170px;
+  width: 490px;
+  height: 200px;
+text-align: center;
+}
+div#link{
+    border: 8px solid rgba(16, 180, 245, 0.902);
+    border-radius: 18px;
+    text-align: center;
+    background-color:   aquamarine;
+
+    
+    
+}
+img#mgf{
+    opacity: 0.3;
+}
+li{
+    display: inline;
+
+}
+a{
+    text-decoration: none;
+    font-size: 40px;
+    background-color: aquamarine;
+}
+
+a:hover{
+
+background-color: #46a7d8;
+
+}
+a:active{
+    background-color: coral;
+}
+div#hm{
+
+    color: blue;
+}
+div#kd{
+
+    color:red;
+    background-color: rgb(41, 112, 19);
+}
+div#cnt{
+    color: rgb(0, 0, 0);
+    background-image: url("istockphoto-477001758-612x612.jpg");
+    width: 500px;
+    height: 300px;
+}
+.c1{
+    font-size: larger;
+}
+
+.c2{
+  color: #1a5404;
+}
+
+body{
+   background-color: rgb(37, 37, 137);
+
+ 
+}
